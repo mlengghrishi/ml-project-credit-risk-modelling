@@ -1,1 +1,1 @@
-# ml-project-credit-risk-modelling
+# ml-project-Credit-Risk-Modelling
